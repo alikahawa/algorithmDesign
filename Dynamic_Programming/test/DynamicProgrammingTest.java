@@ -1,6 +1,5 @@
-package Dynamic_Programming.test;
+package sdas.algorithmDesign.Dynamic_Programming.test;
 
-// import static org.junit.Assert.*;
 import java.util.Scanner;
 // import org.junit.*;
 // import org.junit.rules.*;
